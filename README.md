@@ -1,0 +1,1 @@
+This repository demonstrates a common error in PHP related to handling null values in function arguments.  The `bug.php` file shows code susceptible to this issue, while `bugSolution.php` provides the improved version.
